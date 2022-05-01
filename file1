@@ -1,10 +1,0 @@
-cat file1
-this is file1
-this is file2 
-this is file 3 
-^c
-^ c
-+zz
-:wq
-clear
-$ clear
